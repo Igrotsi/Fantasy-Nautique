@@ -1,0 +1,4 @@
+repository "Fantasy Nautique 2025-05-13_16-58-32/Fantasy Nautique@9070998190325@cloud"
+  path "/"
+    br "/main"
+    co "/main"
